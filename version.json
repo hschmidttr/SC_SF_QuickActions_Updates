@@ -1,5 +1,5 @@
 {
-  "version": "3.2.0",
-  "notes": "UI redesign: grouped reports, skeleton badges, context badge, Bootstrap Icons, settings, user search with email, toggle state fixes",
+  "version": "3.3.0",
+  "notes": "Unassigned case notifications: badge on icon, OS alert on new cases, settings toggle, working hours gate (Mon-Fri 8-6), retry on failed case actions, UI redesign polish",
   "url": "https://trten.sharepoint.com/:f:/s/SCDevelopment/IgBSjEzylRcCT71wfmM-6wlBAe-Q9rGQrbdQ2rZDAxnCdHs?e=VhRZDY"
 }
