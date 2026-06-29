@@ -1,5 +1,5 @@
 {
-  "version": "3.3.0",
-  "notes": "Unassigned case notifications: badge on icon, OS alert on new cases, settings toggle, working hours gate (Mon-Fri 8-6), retry on failed case actions, UI redesign polish",
+  "version": "3.4.0",
+  "notes": "Suggested assignee on Case Actions, Teams per-case cards, settings accordion, {assignee} template, error messages on retry, picker DRY refactor",
   "url": "https://trten.sharepoint.com/:f:/s/SCDevelopment/IgBSjEzylRcCT71wfmM-6wlBAe-Q9rGQrbdQ2rZDAxnCdHs?e=VhRZDY"
 }
