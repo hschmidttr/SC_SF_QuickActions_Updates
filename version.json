@@ -1,5 +1,5 @@
 {
-  "version": "3.1.0",
-  "notes": "Bootstrap Icons replacing all emojis, settings screen, assign-to/CC/opp-team pickers, copy button on rows, leave source opp toggle",
+  "version": "3.2.0",
+  "notes": "UI redesign: grouped reports, skeleton badges, context badge, Bootstrap Icons, settings, user search with email, toggle state fixes",
   "url": "https://trten.sharepoint.com/:f:/s/SCDevelopment/IgBSjEzylRcCT71wfmM-6wlBAe-Q9rGQrbdQ2rZDAxnCdHs?e=VhRZDY"
 }
