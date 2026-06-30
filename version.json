@@ -1,5 +1,5 @@
 {
-  "version": "3.6.0",
-  "notes": "Starred opps, suggested assignee, settings accordion, report limit setting, Teams card improvements, {assignee} template, error retry messages, star button on opp rows",
+  "version": "3.7.0",
+  "notes": "Post to Opp Chatter, starred/closed-lost/auth-fail alerts, settings notifications redesign, case create re-assign fix, report limit setting, Teams case date field",
   "url": "https://trten.sharepoint.com/:f:/s/SCDevelopment/IgBSjEzylRcCT71wfmM-6wlBAe-Q9rGQrbdQ2rZDAxnCdHs?e=VhRZDY"
 }
