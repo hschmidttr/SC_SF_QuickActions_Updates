@@ -1,5 +1,5 @@
 {
   "version": "4.3.0",
-  "notes": "SC Team Workload now tracks opportunity distribution by stage, adds a BU region filter for unassigned cases, confidence ratings on the dashboard pipeline view, and settings export/import",
+  "notes": "SC Team Workload now tracks opps by stage, BU region filter for unassigned cases, settings export/import, confidence ratings on the dashboard, and a built-in user guide (all three profiles) accessible from the popup footer.",
   "url": "https://trten.sharepoint.com/:f:/s/SCDevelopment/IgBSjEzylRcCT71wfmM-6wlBAe-Q9rGQrbdQ2rZDAxnCdHs?e=VhRZDY"
 }
