@@ -1,5 +1,5 @@
 {
-  "version": "4.2.0",
-  "notes": "Performance, security hardening, and multi-profile support. Popup now opens instantly on non-SF tabs. Added side ribbon drawer on SF pages. Security fixes across all message handlers.",
+  "version": "4.3.0",
+  "notes": "SC Team Workload now tracks opportunity distribution by stage, adds a BU region filter for unassigned cases, confidence ratings on the dashboard pipeline view, and settings export/import",
   "url": "https://trten.sharepoint.com/:f:/s/SCDevelopment/IgBSjEzylRcCT71wfmM-6wlBAe-Q9rGQrbdQ2rZDAxnCdHs?e=VhRZDY"
 }
