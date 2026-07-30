@@ -1,5 +1,5 @@
 {
-  "version": "4.3.0",
-  "notes": "SC Team Workload now tracks opps by stage, BU region filter for unassigned cases, settings export/import, confidence ratings on the dashboard, and a built-in user guide (all three profiles) accessible from the popup footer.",
+  "version": "4.4.0",
+  "notes": "Meetings tab pagination across all dashboard tables, dashboard footer guide link, and Power Automate flow setup guide for meeting data export.",
   "url": "https://trten.sharepoint.com/:f:/s/SCDevelopment/IgBSjEzylRcCT71wfmM-6wlBAe-Q9rGQrbdQ2rZDAxnCdHs?e=VhRZDY"
 }
