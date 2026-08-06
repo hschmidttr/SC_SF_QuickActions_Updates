@@ -1,5 +1,5 @@
 {
-  "version": "4.4.0",
-  "notes": "Meetings tab pagination across all dashboard tables, dashboard footer guide link, and Power Automate flow setup guide for meeting data export.",
+  "version": "4.5.0",
+  "notes": "Opp Brief section shows today's meeting, pipeline health, SC case, DA status and open tasks at a glance when you open the extension on an opportunity.",
   "url": "https://trten.sharepoint.com/:f:/s/SCDevelopment/IgBSjEzylRcCT71wfmM-6wlBAe-Q9rGQrbdQ2rZDAxnCdHs?e=VhRZDY"
 }
